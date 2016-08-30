@@ -6,7 +6,8 @@
 
 ### Programming Paradigms:
 
-#### Game Development:
+#### Game Programming:
+1. []()
 
 #### Servers:
 
@@ -14,7 +15,7 @@
 
 #### Mobile Development:
 
-### Web Development:
+#### Web Development:
 1. [w3schools](http://http://www.w3schools.com/)
 
 ---
@@ -31,9 +32,11 @@
 
 #### Java:
 1. (CodingBat)[http://codingbat.com/java]
+2. (LearnJavaOnline)[http://www.learnjavaonline.org/]
 
 #### Python:
 1. (CodingBat)[http://codingbat.com/python]
+2. 
 
 #### ASP.net:
 
@@ -44,6 +47,7 @@
 #### Terminal:
 
 #### Git:
+1. [Git](https://git-scm.com/docs)
 
 #### OpenGL:
 
@@ -55,11 +59,30 @@
 
 #### Flask:
 
+#### Qt:
+
 ---
 
-##Tools & IDEs:
+##Tools:
 
+#### IDEs
+1. [Micrsoft Visual Studio](https://code.visualstudio.com/download)
+2. [Eclipse](https://www.eclipse.org/downloads/)
+3. [Code::Blocks]()
+4. [Android Studio]()
 
+#### Text Editors:
+1. [Vim]()
+2. [Sublime Text]()
+3. [Atom]()
+4. []
+
+#### Programming Tools
+1. [Git Bash]()
+2. [Tmux]()
+3. [Digital Ocean Server]()
+4. [Google Domains](domains.google.com)
+5. [MongoDB]()
 
 
 
