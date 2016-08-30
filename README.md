@@ -8,15 +8,19 @@
 
 #### Game Development:
 
+
 #### Servers:
+
 
 #### Databases:
 
 #### Mobile Development:
 
 ### Web Development:
+1. [w3schools](http://http://www.w3schools.com/)
 
 ---
+
 ##Languages
 
 #### C:
