@@ -48,6 +48,8 @@
 
 #### Git:
 1. [Git](https://git-scm.com/docs)
+2. [Git Command Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+3. [Markdown Cheat Sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 #### OpenGL:
 
@@ -70,19 +72,23 @@
 2. [Eclipse](https://www.eclipse.org/downloads/)
 3. [Code::Blocks]()
 4. [Android Studio]()
+5. 
 
 #### Text Editors:
 1. [Vim]()
 2. [Sublime Text]()
 3. [Atom]()
-4. []
+4. [Notepad++](https://notepad-plus-plus.org/)
 
 #### Programming Tools
-1. [Git Bash]()
-2. [Tmux]()
-3. [Digital Ocean Server]()
+1. [Git Bash](https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash)
+2. [Tmux](https://tmux.github.io/)
+3. [Digital Ocean Server](https://www.digitalocean.com/)
 4. [Google Domains](domains.google.com)
-5. [MongoDB]()
+5. [MongoDB](https://www.mongodb.com/)
+
+### Software
+1. [GIMP (Gnu Image Manipulation Program)]()
 
 
 
