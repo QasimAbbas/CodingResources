@@ -31,11 +31,11 @@
 #### C#:
 
 #### Java:
-1. (CodingBat)[http://codingbat.com/java]
-2. (LearnJavaOnline)[http://www.learnjavaonline.org/]
+1. [CodingBat](http://codingbat.com/java)
+2. [LearnJavaOnline](http://www.learnjavaonline.org/)
 
 #### Python:
-1. (CodingBat)[http://codingbat.com/python]
+1. [CodingBat](http://codingbat.com/python)
 2. 
 
 #### ASP.net:
@@ -70,14 +70,14 @@
 #### IDEs
 1. [Micrsoft Visual Studio](https://code.visualstudio.com/download)
 2. [Eclipse](https://www.eclipse.org/downloads/)
-3. [Code::Blocks]()
-4. [Android Studio]()
-5. 
+3. [Code::Blocks](http://www.codeblocks.org/)
+4. [Android Studio](https://developer.android.com/studio/index.html)
+5. [PyCharm](https://www.jetbrains.com/pycharm/)
 
 #### Text Editors:
-1. [Vim]()
-2. [Sublime Text]()
-3. [Atom]()
+1. [Vim](http://www.vim.org/)
+2. [Sublime Text](https://www.sublimetext.com/)
+3. [Atom](https://atom.io/)
 4. [Notepad++](https://notepad-plus-plus.org/)
 
 #### Programming Tools
