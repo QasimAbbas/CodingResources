@@ -4,7 +4,7 @@
 
 ---
 
-### Programming Paradigms:
+## Programming Paradigms
 
 #### Game Programming:
 1. []()
@@ -36,7 +36,6 @@
 
 #### Python:
 1. [CodingBat](http://codingbat.com/python)
-2. 
 
 #### ASP.net:
 
@@ -53,11 +52,11 @@
 
 #### OpenGL:
 
-#### LibGDX
+#### LibGDX:
 
 #### MonoGame:
 
-#### PyGame
+#### PyGame:
 
 #### Flask:
 
@@ -65,9 +64,9 @@
 
 ---
 
-##Tools:
+##Tools
 
-#### IDEs
+#### IDEs:
 1. [Micrsoft Visual Studio](https://code.visualstudio.com/download)
 2. [Eclipse](https://www.eclipse.org/downloads/)
 3. [Code::Blocks](http://www.codeblocks.org/)
@@ -80,14 +79,14 @@
 3. [Atom](https://atom.io/)
 4. [Notepad++](https://notepad-plus-plus.org/)
 
-#### Programming Tools
+#### Programming Tools:
 1. [Git Bash](https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash)
 2. [Tmux](https://tmux.github.io/)
 3. [Digital Ocean Server](https://www.digitalocean.com/)
 4. [Google Domains](domains.google.com)
 5. [MongoDB](https://www.mongodb.com/)
 
-### Software
+#### Software:
 1. [GIMP (Gnu Image Manipulation Program)]()
 
 
