@@ -1,10 +1,10 @@
 #Coding Resources
 
-###The purpose of this repo is to compile together a list of what I found to be a useful coding resources for the technologes and programming paradigms I know best.
+###The purpose of this repo is to compile together a list of what I found to be a useful learning resources for the technologes and programming paradigms I know best.
 
 ---
 
-##Programming Paradigms:
+### __Programming Paradigms:__
 
 #### Game Development:
 
@@ -19,9 +19,9 @@
 ---
 ##Languages
 
-#### C
+#### C:
 
-#### C++
+#### C++:
 
 #### C#:
 
@@ -29,11 +29,11 @@
 
 #### Python:
 
-#### ASP.net
+#### ASP.net:
 
 ---
 
-##Technologies 
+##Technologies & Libraries
 
 #### Terminal:
 
@@ -41,9 +41,19 @@
 
 #### OpenGL:
 
+#### LibGDX
+
+#### MonoGame:
+
+#### PyGame
+
+#### Flask:
+
 ---
 
-##Tools:
+##Tools & IDEs:
+
+
 
 
 
