@@ -39,6 +39,8 @@
 
 #### ASP.net:
 
+#### JavaScript:
+
 ---
 
 ##Technologies & Libraries
@@ -61,6 +63,8 @@
 #### Flask:
 
 #### Qt:
+
+#### JQuery:
 
 ---
 
@@ -87,7 +91,9 @@
 5. [MongoDB](https://www.mongodb.com/)
 
 #### Software:
-1. [GIMP (Gnu Image Manipulation Program)]()
+1. [GIMP (Gnu Image Manipulation Program)](https://www.gimp.org/downloads/)
+2. [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
+3. 
 
 
 
