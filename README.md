@@ -65,6 +65,7 @@
 #### Qt:
 
 #### JQuery:
+[JQuery Documentation](https://api.jquery.com/)
 
 ---
 
@@ -93,7 +94,6 @@
 #### Software:
 1. [GIMP (Gnu Image Manipulation Program)](https://www.gimp.org/downloads/)
 2. [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
-3. 
 
 
 
