@@ -65,7 +65,7 @@
 #### Qt:
 
 #### JQuery:
-[JQuery Documentation](https://api.jquery.com/)
+1. [JQuery Documentation](https://api.jquery.com/)
 
 ---
 
