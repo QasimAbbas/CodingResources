@@ -123,17 +123,3 @@
 #### Hackathon Starter Kit
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
