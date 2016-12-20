@@ -68,15 +68,22 @@
 ##Technologies & Libraries
 
 #### Terminal:
+1. [O'Reilly Linux Command Cheat Sheet](https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.linuxdevcenter.com/excerpt/LinuxPG_quickref/linux.pdf&ved=0ahUKEwjSsKaM9ILRAhVH4oMKHeUlA4oQFgg1MAI&usg=AFQjCNFhJeLfbqeigvOtSPKsAmeC522sAg&sig2=Yo5jdE4d4yE0cuNOByhG9w)
+2. [TutorialsPoint](http://www.tutorialspoint.com/unix_commands/)
 
-#### Git:
+#### Git(hub):
 1. [Git](https://git-scm.com/docs)
 2. [Git Command Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
-3. [Markdown Cheat Sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
+3. [Git Control Flow Graph](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+4. [Markdown Cheat Sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 #### OpenGL:
 
 #### LibGDX:
+1. [LibGDX Documentation](https://libgdx.badlogicgames.com/nightlies/docs/api/overview-summary.html)
+2. [dermetfan Video Tutorial Series](https://youtu.be/EJwXzmUQChg)
+3. [LibGDX Github Examples](https://github.com/libgdx)
+4. [GamesFromScratch LibGDX Tutorials](http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx)
 
 #### MonoGame:
 
@@ -123,3 +130,4 @@
 #### Hackathon Starter Kit
 
 ---
+#### Game-Jam Starter Kit
