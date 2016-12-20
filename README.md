@@ -15,7 +15,9 @@
 ## Programming Paradigms
 
 #### Game Programming:
-1. [Game Programming Design Patterns](http://gameprogrammingpatterns.com/introduction.html)
+1. [Game Development Tuts+](https://gamedevelopment.tutsplus.com)
+2. [Game Programming Design Patterns](http://gameprogrammingpatterns.com/introduction.html)
+3. [Extra Credits Youtube Channel](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.youtube.com/user/ExtraCreditz&ved=0ahUKEwiBwM_294LRAhXI6oMKHfVQDC4QFgg7MAo&usg=AFQjCNFWZdo2ofV6Bp8GmpWkR561ehGgWA&sig2=6K772qc_OyZSSopdkeF0wQ)
 
 #### Servers:
 
@@ -40,6 +42,7 @@
 3. [CPP Resource Network](http://www.cplusplus.com)
 
 #### C#:
+1. [Microsoft C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
 #### Java:
 1. [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
@@ -78,6 +81,9 @@
 4. [Markdown Cheat Sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 #### OpenGL:
+1. [OpenGL Documentation](https://www.opengl.org/sdk/docs/man2/xhtml/)
+2. [OpenGL Tutorial Series](https://youtu.be/K58-0-LKob8)
+3. [OpenGl Shader Language (GLSL) Tutorial & Examples](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 #### LibGDX:
 1. [LibGDX Documentation](https://libgdx.badlogicgames.com/nightlies/docs/api/overview-summary.html)
