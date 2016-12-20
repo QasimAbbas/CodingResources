@@ -1,13 +1,21 @@
 #Coding Resources
 
-###The purpose of this repo is to compile together a list of what I found to be a useful learning resources for the technologes and programming paradigms I know best.
+###The purpose of this repo is to compile together a list of what I found to be the most useful floating resources on the internet. 
+
+## Table of Contents
+1. Programming Paradigms
+2. Languages
+3. Frameworks & Libraries
+4. Tools & Services
+5. Hackathon Starter Kit
+6. Game-Jam Starer Kit
 
 ---
 
 ## Programming Paradigms
 
 #### Game Programming:
-1. []()
+1. [Game Programming Design Patterns](http://gameprogrammingpatterns.com/introduction.html)
 
 #### Servers:
 
@@ -23,23 +31,37 @@
 ##Languages
 
 #### C:
-1. [learn-c](http://www.learn-c.org/)
+1. [TutorialsPoint](https://www.tutorialspoint.com/cprogramming/) 
+2. [Learn-C](http://www.learn-c.org/)
 
 #### C++:
-1. [sololearn.com](http://www.sololearn.com/Course/CPlusPlus/)
+1. [SoloLearn](http://www.sololearn.com/Course/CPlusPlus/)
+2. [TutorialsPoint](https://www.tutorialspoint.com/cplusplus/)
+3. [CPP Resource Network](http://www.cplusplus.com)
 
 #### C#:
 
 #### Java:
-1. [CodingBat](http://codingbat.com/java)
-2. [LearnJavaOnline](http://www.learnjavaonline.org/)
+1. [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
+2. [CodingBat](http://codingbat.com/java)
+3. [LearnJavaOnline](http://www.learnjavaonline.org/)
 
 #### Python:
 1. [CodingBat](http://codingbat.com/python)
+2. [LearnPython](https://www.learnpython.org)
 
 #### ASP.net:
 
 #### JavaScript:
+1. [w3school](http://www.w3schools.com/js/)
+
+
+#### HTML:
+
+#### CSS:
+
+#### LaTeX:
+1. [Overleaf](https://www.overleaf.com)
 
 ---
 
@@ -79,22 +101,28 @@
 5. [PyCharm](https://www.jetbrains.com/pycharm/)
 
 #### Text Editors:
-1. [Vim](http://www.vim.org/)
-2. [Sublime Text](https://www.sublimetext.com/)
-3. [Atom](https://atom.io/)
-4. [Notepad++](https://notepad-plus-plus.org/)
+1. [Visual Studio Code](http://code.visualstudio.com/?wt.mc_id=DX_573435&utm_source=google&utm_medium=paid&utm_content=1&utm_campaign=Corp-FY16Q3March-Dev-PJVS&gclid=Cj0KEQiAyuPCBRCimuayhb3qqvwBEiQAgz62kRKpj9YvILGfqzWov8MCninPK1bcZI3X4nfIsKpAFPsaAlga8P8HAQ)
+2. [Vim](http://www.vim.org/)
+3. [Sublime Text](https://www.sublimetext.com/)
+4. [Atom](https://atom.io/)
+5. [Notepad++](https://notepad-plus-plus.org/)
+6. [Overlead](https://www.overleaf.com)
 
 #### Programming Tools:
 1. [Git Bash](https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash)
 2. [Tmux](https://tmux.github.io/)
 3. [Digital Ocean Server](https://www.digitalocean.com/)
 4. [Google Domains](domains.google.com)
-5. [MongoDB](https://www.mongodb.com/)
+5. [MongoDB/NoSQL](https://www.mongodb.com/)
 
 #### Software:
 1. [GIMP (Gnu Image Manipulation Program)](https://www.gimp.org/downloads/)
 2. [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 
+--- 
+#### Hackathon Starter Kit
+
+---
 
 
 
